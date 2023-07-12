@@ -1,0 +1,49 @@
+Project (I.D.E.A.)
+IDEA is a platform for,{
+	Identifying,
+	Documenting,
+	Enumeration,
+	Analasys,
+},
+
+This will be geared toward those wishing for an assist when it comes to securing their home netowrk and services. 
+let's start by explaining how we go about that. 
+
+1. Identifying: 
+	Identifying what you're tyring to protect is a requirement in safety & security. That why we FIRMLY believe that your tools should be able to see it all (even the hidden stuff) 
+	So we have built a platform with that in mind. who can defend/protect agains an Unknown-unknown? 
+
+Features include The ability to detect any and all, {
+	Signals,
+	devices,
+	Networks, 
+	Etc,
+}
+
+2. Documenting: 
+	It is important to keep a record of what you do with this program, as being "Hackerman" sounds cool, it's also HIGHLY Illegal. 
+	This is why we are intigrating a robust set of recording & report generating tools, so the User can "CYA"(cover your ***). 
+		
+Tools include, {
+	CSV sheet Generation,
+	PDF Generation,
+	.txt Generation,
+}
+			
+3. Enumeration: 
+	When defending a network, workgroup, or even just a cell phone we belive that if you don't have all the information about what is on your network, then you can't protect it all.
+	We want to provide you with a set of tools you understand, no more are the days when only the geeks & gamers get to understand Tech Wizardry.
+	To "enumerate" is just a fancy word for finding a devices UID (Unique ID). 
+	Every device that sends, or recieves any kind of signals is required to have a UID. Which Is usually a long technical string of some combination of, letters, numbers, symbols. 
+	The aim is to make it easy to understand, and/or rename ALL of it. To something that is more User focused. 
+
+Tools available, {
+	Dubber 1,(renaming utility)
+	DB-me, (database utility for storing your Chosen Naming conventions)
+},
+
+4. Analasys: 
+	The Ability to to make informed decisions about how to keep a secure network/deivce/etc, depends on how effective you are at knowing what your data is doing. 
+	How do we know a bottleneck in a system isn't because someone is robbing you of system resources? Well it would be a combination of various techniques listed above. It maybe that a Nefarious actor is in your system, 
+or it could just be that you have a piece of outdated equipment, that isn't working well with others. 
+	That being the case, we firmly stand by Open-Source technologies, and aim to coloaborate with professionals in the data security field to keep our platform safe, effective, and User friendly. 
